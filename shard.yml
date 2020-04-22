@@ -1,0 +1,9 @@
+name: concurrency
+version: 0.1.0
+
+authors:
+  - Andre Barbosa <albmail88@gmail.com>
+
+crystal: 0.34.0
+
+license: MIT
