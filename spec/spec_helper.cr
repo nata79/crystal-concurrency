@@ -1,3 +1,6 @@
 require "spec"
 require "../src/concurrency"
 require "../src/future"
+require "../src/multiprocessing/task"
+require "../src/multiprocessing/instruction"
+require "../src/multiprocessing/executor"
